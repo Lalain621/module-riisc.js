@@ -1,4 +1,4 @@
-(function() {
+{
     "use strict";
 
     console.log("✅ Module RIISC chargé et exécuté");
